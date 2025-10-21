@@ -1,6 +1,6 @@
-# 🤖 TP 1 : Agent Réflexe Simple (Robot Aspirateur)
+#  TP 1 : Agent Réflexe Simple (Robot Aspirateur)
 
-## 📌 Objectifs du Projet
+##  Objectifs du Projet
 
 Ce projet implémente un agent réflexe simple (un robot aspirateur) capable de nettoyer une grille 3x3. Le but principal est de comprendre le cycle Perception → Décision → Action et d'évaluer la performance de l'agent.
 
@@ -8,7 +8,7 @@ Ce projet implémente un agent réflexe simple (un robot aspirateur) capable de 
 * **Agent :** Réflexe simple (sans mémoire)
 * **Règles :** Aspirer (si sale) ou se déplacer selon un cycle (DROITE, BAS, GAUCHE, HAUT).
 
-## 🚀 Démarrage et Exécution
+##  Démarrage et Exécution
 
 ### Prérequis
 
@@ -19,7 +19,7 @@ Ce projet implémente un agent réflexe simple (un robot aspirateur) capable de 
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/votre_nom/nom_du_depot.git](https://github.com/votre_nom/nom_du_depot.git)
+    git clone [https://github.com/emeen1/IA_Robot_Aspirateur.git] (https://github.com/emeen1/IA_Robot_Aspirateur.git)
     cd nom_du_depot
     ```
 
@@ -31,7 +31,7 @@ Ce projet implémente un agent réflexe simple (un robot aspirateur) capable de 
 3.  Ouvrez le fichier **`TP1_RobotAspirateur.ipynb`** dans votre navigateur.
 4.  Exécutez toutes les cellules pour voir la simulation de l'agent.
 
-## 📊 Résultats et Performance
+##  Résultats et Performance
 
 *(Décrivez ici les résultats obtenus, par exemple :)*
 
@@ -46,6 +46,6 @@ Le robot a réussi à nettoyer toutes les 6 cases sales en **12 actions** (pour 
     0 R 0
     ```
 
-## ⚙️ Auteur
+## Auteur
 
-**NOM :** NOUAM | **PRENOM :** IMANE | **FILIERE :** IAGI 2
+**NOM :** NOUAM | **PRENOM :** IMANE 
