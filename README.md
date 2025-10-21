@@ -33,8 +33,6 @@ Ce projet implémente un agent réflexe simple (un robot aspirateur) capable de 
 
 ##  Résultats et Performance
 
-*(Décrivez ici les résultats obtenus, par exemple :)*
-
 Le robot a réussi à nettoyer toutes les 6 cases sales en **12 actions** (pour seed=1). Le taux de propreté final est de 100%.
 
 * **Taux de Propreté Final :** 100%
