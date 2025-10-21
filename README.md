@@ -20,7 +20,7 @@ Ce projet implémente un agent réflexe simple (un robot aspirateur) capable de 
 1.  **Cloner le dépôt :**
     ```bash
     git clone [https://github.com/emeen1/IA_Robot_Aspirateur.git] (https://github.com/emeen1/IA_Robot_Aspirateur.git)
-    cd nom_du_depot
+    cd IA_Robot_Aspirateur
     ```
 
 2.  **Lancer Jupyter :**
